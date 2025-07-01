@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bahaynon
+- 👋 Hi, I’m Bahaynon
 - 👀 I’m interested in Playing Games /  Coding / Movies
 - 🌱 I’m currently learning in OOP
 - 💞️ I’m looking to collaborate
